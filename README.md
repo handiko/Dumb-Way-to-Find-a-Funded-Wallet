@@ -59,7 +59,7 @@ If you want to witness the heat death of the universe from your terminal:
     Edit `Random Wallet Checker.py` and replace `INFURA_PROJECT_ID` with your own key.
 4.  **Run the script**:
     ```bash
-    python "RandomWalletChecker.py"
+    python RandomWalletChecker.py
     ```
 
 ## 🖥 Example Output
