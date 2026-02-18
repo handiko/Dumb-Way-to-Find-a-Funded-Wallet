@@ -62,5 +62,32 @@ If you want to witness the heat death of the universe from your terminal:
     python "Random Wallet Checker.py"
     ```
 
+## 🖥 Example Output
+When running the script, your console will look like this as it begins its multi-billion-year journey:
+
+```text
+✅ Connected to Infura. Current block: 24484287
+
+🚀 Starting wallet monitor. Press Ctrl+C to stop.
+
+[0] Checking Address: 0xe742FF4889186279313d1e634BF4Bc26780603Df  (Key: 0x8e2599ea...)
+[1] Checking Address: 0x83415013B231b2Fce775b9532CEe7055a1111991  (Key: 0x8e7028a5...)
+[2] Checking Address: 0xc2582185B806028341b525bb2E20dd16a3F811ba  (Key: 0x2ff76017...)
+[3] Checking Address: 0xF741525cb3155E5A765eD9c309f185Bfb4377c84  (Key: 0x0d834404...)
+[4] Checking Address: 0x144cF5A4912f4D97F6D2D38b558ED2E822705294  (Key: 0x8f3157b3...)
+[5] Checking Address: 0x6011127E66a0fBDB57E79b8c967Fd0978a5E0A73  (Key: 0x54ac98a7...)
+[6] Checking Address: 0x2aA38282F6923C6FE90EbC090658520c2eF7a4dd  (Key: 0xd55ee8d8...)
+[7] Checking Address: 0xEF6e368bfD1482fa91fFe6927f7759c5cC1Da0f3  (Key: 0x06210402...)
+[8] Checking Address: 0x552385A44c61E72A9A5FD7A834e5B950D07ff555  (Key: 0x8bfb6e83...)
+[9] Checking Address: 0x9cA769006A73827ebE44Ba3aC6De9Ba9c8c012b2  (Key: 0x5c495c52...)
+[10] Checking Address: 0x41C94b0b9d543df7363B3059731aB5464c3d53a2  (Key: 0x3dd1bc89...)
+[11] Checking Address: 0x54938F348Bb101eE8ba4E17EF8B48053eA2686fA  (Key: 0x6618ca9c...)
+[12] Checking Address: 0x5cF69dd7398d06c3919d3dE940bDf8f2FD0205fa  (Key: 0x149ff225...)
+[13] Checking Address: 0x174225C82823bDA6516DF41a82a679792571477C  (Key: 0xd01e8afc...)
+[14] Checking Address: 0x2f5B91B32Bf8aB5B1E1FD6d4e575a8d6D2F72A99  (Key: 0x6103c7d8...)
+[15] Checking Address: 0xEC201BeC8F90da95c065a5c7183180512D2495Bc  (Key: 0xbf886393...)
+
+🛑 Monitor stopped by user.
+
 ## ⚠️ Disclaimer
 This project is for **educational and research purposes only**. It highlights the security of Elliptic Curve Cryptography (ECC). Attempting to access wallets that do not belong to you is illegal and unethical. Fortunately, mathematics will stop you long before the law needs to.
