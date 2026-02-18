@@ -49,15 +49,15 @@ If you want to witness the heat death of the universe from your terminal:
 
 1.  **Clone the repo**:
     ```bash
-    git clone [https://github.com/yourusername/infinite-needle.git](https://github.com/yourusername/infinite-needle.git)
+    git clone [https://github.com/handiko/Dumb-Way-to-Find-a-Funded-Wallet.git](https://github.com/handiko/Dumb-Way-to-Find-a-Funded-Wallet.git)
     ```
-2.  **Install dependencies**:
+3.  **Install dependencies**:
     ```bash
     pip install web3 eth-account
     ```
-3.  **Add your Infura ID**:
+4.  **Add your Infura ID**:
     Edit `Random Wallet Checker.py` and replace `INFURA_PROJECT_ID` with your own key.
-4.  **Run the script**:
+5.  **Run the script**:
     ```bash
     python RandomWalletChecker.py
     ```
