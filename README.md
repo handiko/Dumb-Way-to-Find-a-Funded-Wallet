@@ -49,7 +49,7 @@ If you want to witness the heat death of the universe from your terminal:
 
 1.  **Clone the repo**:
     ```bash
-    git clone [https://github.com/handiko/Dumb-Way-to-Find-a-Funded-Wallet.git](https://github.com/handiko/Dumb-Way-to-Find-a-Funded-Wallet.git)
+    git clone https://github.com/handiko/Dumb-Way-to-Find-a-Funded-Wallet.git
     ```
 3.  **Install dependencies**:
     ```bash
