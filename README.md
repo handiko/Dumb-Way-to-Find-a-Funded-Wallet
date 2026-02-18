@@ -65,7 +65,7 @@ If you want to witness the heat death of the universe from your terminal:
 ## 🖥 Example Output
 When running the script, your console will look like this as it begins its multi-billion-year journey:
 
-```text
+```bash
 ✅ Connected to Infura. Current block: 24484287
 
 🚀 Starting wallet monitor. Press Ctrl+C to stop.
@@ -86,8 +86,8 @@ When running the script, your console will look like this as it begins its multi
 [13] Checking Address: 0x174225C82823bDA6516DF41a82a679792571477C  (Key: 0xd01e8afc...)
 [14] Checking Address: 0x2f5B91B32Bf8aB5B1E1FD6d4e575a8d6D2F72A99  (Key: 0x6103c7d8...)
 [15] Checking Address: 0xEC201BeC8F90da95c065a5c7183180512D2495Bc  (Key: 0xbf886393...)
-
-🛑 Monitor stopped by user.
+...
+```
 
 ## ⚠️ Disclaimer
 This project is for **educational and research purposes only**. It highlights the security of Elliptic Curve Cryptography (ECC). Attempting to access wallets that do not belong to you is illegal and unethical. Fortunately, mathematics will stop you long before the law needs to.
