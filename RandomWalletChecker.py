@@ -6,7 +6,7 @@ from web3 import Web3
 from web3.middleware import ExtraDataToPOAMiddleware
 
 # ===== CONFIGURATION =====
-INFURA_PROJECT_ID = "280484d361c34c5c87e95bbf5f90a60c"  # <-- Replace with your actual ID
+INFURA_PROJECT_ID = "280484d36..........f5f0a60c"  # <-- Replace with your actual ID
 RPC_URL = f"https://mainnet.infura.io/v3/{INFURA_PROJECT_ID}"
 
 # Optional: Add a custom User-Agent header (some nodes appreciate it)
@@ -99,4 +99,5 @@ if __name__ == "__main__":
     try:
         monitor_random_keys()
     except KeyboardInterrupt:
+
         print("\n🛑 Monitor stopped by user.")
