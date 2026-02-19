@@ -56,7 +56,7 @@ If you want to witness the heat death of the universe from your terminal:
     pip install web3 eth-account
     ```
 4.  **Add your Infura ID**:
-    Edit `Random Wallet Checker.py` and replace `INFURA_PROJECT_ID` with your own key.
+    Edit `RandomWalletChecker.py` and replace `INFURA_PROJECT_ID` with your own key.
 5.  **Run the script**:
     ```bash
     python RandomWalletChecker.py
