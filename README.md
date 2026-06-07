@@ -94,4 +94,4 @@ This project is for **educational and research purposes only**. It highlights th
 
 ---
 
-Back to [Index](https://github.com/handiko/handiko/blob/master/README.md)
+Back to [Index](https://github.com/handiko/handiko/blob/master/Index.md)
